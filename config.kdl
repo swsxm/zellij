@@ -278,7 +278,7 @@ load_plugins {
 // Choose the base input mode of zellij.
 // Default: normal
 //
-theme "iceberg-dark"
+theme "custom"
 default_mode "normal"
  
 // Choose the path to the default shell that zellij will use for opening new panes
@@ -294,7 +294,7 @@ default_mode "normal"
 // Default: "default"
 // 
 // default_layout "compact"
- 
+default_layout "compact"
 // The folder in which Zellij will look for layouts
 // (Requires restart)
 // 
@@ -303,7 +303,7 @@ default_mode "normal"
 // The folder in which Zellij will look for themes
 // (Requires restart)
 // 
-// theme_dir "/tmp"
+theme_dir "/home/equipoise/.config/zellij/themes"
  
 // Toggle enabling the mouse mode.
 // On certain configurations, or terminals this could
