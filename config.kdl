@@ -278,7 +278,7 @@ load_plugins {
 // Choose the base input mode of zellij.
 // Default: normal
 //
-theme "custom"
+theme "iceberg-dark"
 default_mode "normal"
  
 // Choose the path to the default shell that zellij will use for opening new panes
