@@ -1,15 +1,15 @@
 themes {
     custom {
-        fg "#ffffff"
-        bg "#2D5A3A"
-        black "#0c0c0c"
+        fg "#f2f2f2"
+        bg "#1d3b53"
+        black "#081e2f"
         red "#f38ba8"
-        green "#50fa7b"
+        green "#82aaff"
         yellow "#f9e2af"
         blue "#89b4fa"
         magenta "#cba6f7"
         cyan "#94e2d5"
-        white "#cdd6f4"
+        white "#f2f2f2"
         orange "#fab387"
         text_unselected {
             base 255 255 255
